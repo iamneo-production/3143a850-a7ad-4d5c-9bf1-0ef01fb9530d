@@ -1,0 +1,43 @@
+.conc{
+    /* background-image: url('imgs/home.jpg'); */
+    background-image:   url('imgs/fbc5.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    /* height:100vh; */
+}
+
+.graph{
+    /* padding-right: 30px; */
+    /* padding-left: 100px; */
+}
+
+
+.conc2{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.conc3{
+   
+        margin-left: 25%;
+        /* padding-top: 100px; */
+        border-radius: 10px;
+        color:black;
+        width: 35%;
+        height: 200px;
+        background-color: rgba(80, 83, 85, 0.3);
+        /* padding: 5px; */
+    }
+    .conc3 p{
+        justify-content: space-between;
+    }
+
+    .graph1{
+        display:flex;
+    }
+    .graph2{
+        margin-left: 13%;
+    }
+    .graph3{
+        margin-left: 40%;
+    }

@@ -1,0 +1,159 @@
+/* 
+
+.ho{
+
+    background-image:   url('imgs/fbc2.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    }
+    
+    .home {
+        text-align: center;
+        display: flex;
+      }
+      
+    .h{
+        transform: translateX(-200%);
+        display: flex;
+        width: 250px;
+    }
+
+    .sea{
+        width:200px;
+       
+    }
+    .search-bar{
+        padding-left: 1000px;
+    }
+    
+    .bu {
+        border-radius: 4px;
+        font-size: 16px;
+        cursor: pointer;
+        width: 30px;
+        margin-left: 900px;
+      }
+
+      .hom{
+        margin-left: 5%;
+        border-radius: 10px;
+        color: white;
+        width: 50%;
+        height: 250px;
+        background-color: rgba(80, 83, 85, 0.3);
+    }
+     
+    .hom1{
+        padding-left: 100px;
+        width:20%;
+        float: left;
+    }
+   
+    .hom1 h3{
+        font-size: 35px;
+    
+    }
+    .hom2{
+        font-size: 25px;
+        padding-top: 10px;
+        padding-left: 26px;
+        width:60%;
+        float:right;
+    }
+    .hour{
+        margin-left: 10%;
+        border-radius: 10px;
+        color: white;
+        width: 50%;
+        height: 250px;
+        background-color: rgba(80, 83, 85, 0.3);
+    }
+    .hour-det{
+        padding-top: 10px;
+        height:250px;
+        width: 98%;
+        margin-left: 7px;
+    }
+    .hour-det1{
+        padding-top: 10px;
+        height:250px;
+        width: 90%;
+        margin-left: 5%;
+    }
+    .hourly{
+        border-radius: 10px;
+        background-color: rgb(9, 27, 43);
+        height: 250px;
+        opacity: 0.7;
+    }
+    .hourly1{
+        border-radius: 10px;
+        background-color: rgb(9, 27, 43);
+        height: 250px;
+        opacity: 0.7;
+    }
+    
+    .sep{
+        display: inline-block;
+        padding:15px;
+    }
+    .h_det p{
+        margin-top: 30px;
+    }
+    .h_det{
+        border-radius: 10px;
+        background-color: rgba(172, 203, 231, 0.1);
+        width: 120px;
+        height:200px;
+        text-align: center;
+        color:white;
+        border:2px solid white;
+    }
+    p{
+        color: white;
+    }
+    .search-cont{
+        width:20%;
+        display: inline-block;
+        background-color:  rgba(80, 83, 85, 0.3);
+
+    }
+    .in{
+        width:45px;
+
+    }
+    .search-but{
+        height: 30px;
+        color:white;
+        background-color: rgb(9, 27, 43);
+        border-radius: 10px;
+        width: 20px;
+    }
+    .air
+    {
+        margin-left: 5%;
+        border-radius: 10px;
+        color: white;
+        width: 50%;
+        height: 250px;
+        background-color: rgba(80, 83, 85, 0.3);
+    }
+   
+   .date{
+    padding-left: 800px;
+   
+
+    
+   }
+    @media (max-width: 768px) {
+        .background {
+          background-size: contain;
+        }
+      }
+    
+    
+    
+      
+      
+       */
